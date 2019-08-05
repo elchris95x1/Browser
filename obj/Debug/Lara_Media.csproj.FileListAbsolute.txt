@@ -1,0 +1,50 @@
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe.config
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.pdb
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmBrowser.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.Properties.Resources.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.GenerateResource.Cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.exe
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe.config
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmBrowser.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.Properties.Resources.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.GenerateResource.Cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.exe
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.pdb
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csprojResolveAssemblyReference.cache
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmHistory.resources
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Interop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\AxInterop.WMPLib.dll
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.ResolveComReference.cache
+F:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmHelp.resources
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Interop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\AxInterop.WMPLib.dll
+D:\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.ResolveComReference.cache
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe.config
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Interop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.ResolveComReference.cache
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.exe
+C:\Users\lcris\OneDrive\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe.config
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Lara_Media.pdb
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\Interop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csprojResolveAssemblyReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Interop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.ResolveComReference.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmBrowser.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.frmHelp.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.Properties.Resources.resources
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.GenerateResource.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.csproj.CoreCompileInputs.cache
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.exe
+C:\Users\lcris\Documents\School Projects\3rd Semester\2-C# Database (ITSE-2338-1031)\Lara_Media\obj\Debug\Lara_Media.pdb
